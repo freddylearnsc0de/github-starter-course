@@ -119,6 +119,29 @@ How long should your answers be? Think of it this way: we're asking because we w
 
 > Another thing about images: Markdown doesn't let you change the image size. If your image is undesirably huge (or small), you can search the internet for how to use HTML image tags in Markdown to resize an image, or resize the image file on your computer (e.g., in the Preview (Mac) or Paint (Windows)).
 
+### About Me
+
+#### Name
+Hi, my name is Frederick.
+
+#### Photo of me
+<img src="IMG_of_me.jpeg" alt="Photo of me" width="20%" height="auto">
+
+#### Year
+_2024_
+
+#### Major
+_Medicine_
+
+#### Why I enrolled in this course
+I plan to specialize in neuroscience and therefore enrolled in this course to deepen my understanding of data science and its applications in neuroscience. I believe that mastering data analysis and machine learning will be crucial for my future research.
+
+#### What got me interested in neuroscience
+I was always fascinated by the mysterious complexity and elegance of the brain. After reading several books about neuroscience and an inspiring article from Wolf Singer I was determined to pursue a career in neuroscience. Neuroscience fascinates me because the brain behaves differently from everything else we know and holds vast potentials for new disocveries and further understanding.
+
+#### Career plans
+I pursue to get into the MD-PhD program at my university and conduct research in the future. I am just starting to study medicine and haven't yet decided on a specific field. I am excited to integrate data science into my work to (hopefully) uncover new insights into brain function and behavior.
+
 ### Create Your GitHub Profile README
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
