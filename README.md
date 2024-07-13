@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Freddy was here
+Freddy was here. And he editied this file in VS Code.
 
 ## 🤓 Course overview and learning outcomes 
 
